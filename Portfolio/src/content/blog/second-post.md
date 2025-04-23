@@ -1,16 +1,73 @@
 ---
-title: 'Second post'
+title: 'Ressume'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 15 2022'
-heroImage: '/blog-placeholder-4.jpg'
+# heroImage: '/blog-placeholder-4.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+# Ravi Kiran KC                           
+### Technical Writer/Information Developer
+E-mail: Ravikiran_24@yahoo.com
+Mobile: +91 7348851546, 7204728650  
+Blog:[ ]( Kiraniyengar.com) Kiraniyengar.com
+## OBJECTIVE
+To deliver user-centric help documents. I bring to bear my technical writing experience to understand the unique documentation requirements, collaborate with subject matter experts to gather information and develop help content. Marked precision and attractive document design are the hallmarks of my work.
+## PROFESSIONAL SKILLS  
+* Documented user guides, installation guides, configuration guides, getting started guides, integration guides, release notes/software change notice
+* Hands-on experience in API documentation
+* Publish documents in PDF and online help formats
+* Hands-on experience in video scripting and creating videos for instructional videos
+* Knowledgeable about DITA XML and Structured concepts
+* Well-versed in single-sourcing and topic-based authoring
+* Ability to build rapport with SMEs and product teams
+* Strong understanding of the SDLC and DDLC
+* Experienced in Agile
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+## TECHNICAL SKILLS
+ **Authoring and Publishing:**  Oxygen XML, Adobe FrameMaker, MadCap Flare, RoboHelp, Confluence 
+**Video Creation**: Camtasia, MadCap Mimic
+**API Testing**: Postman                                      
+**Project Management**: Jira, Bitbucket, GitHub
+**Capturing Tools**: SnagIt, Snipping Tool, MathPix
+**Programming/Scripting Languages**: HTML, CSS, XML, Rest APIs, JavaScript, JSON, Markdown
+**Web Technology**: WordPress
+### WORK EXPERIENCE
+#### HCL Technologies, Bengaluru — Software Technical Writer               (July 2021 – Present)
+**Client: - Honeywell International**
+* Documented user help topics for state-of-the-art SaaS and on-premises applications
+* Wrote for a variety of audiences, including Project Engineers, SaaSOps teams, IT administrators, and end-customers
+* Handled 18 plus releases during my tenure at honeywell 
+* Interviewed subject matter experts and built rapport with the product team to understand how the application works 
+* Followed technical documentation standards such as MSTP and Simplified Technical English
+* Delivered documents in PDF, web-based online help, and CHM formats
+* Worked with HTML and CSS to customize the document design and created landing pages for Help Files
+* Implemented context-sensitive online help
+* Created thirty-plus instructional videos
+* Migrated from non-XML content to DITA XML (around 2500 pages)
+* Used Oxygen XML, Confluence, MadCap Flare, Camtasia, and Adobe FrameMaker to deliver text and video-based user help documents in PDF and online help formats
+#### Hetero Healthcare, Bengaluru — BDM                               (Feb 2020 – June 2021)
+* Edited and rebranded the PowerPoint, USP, training materials, and web content for the marketing team
+* Collaborated closely with internal teams and sales to determine the functionality and design features of the product
+* Tracking the sales figures, handling product-related queries from global clients, and giving them on-time resolution
+#### Zydus, Bengaluru — Executive (Mar 2018 – July 2019)
+* Worked and collaborated with the marketing coordinator to set up and manage email campaigns and manage the contact list through valuable segmentation
+* Tracking the sales figures, handling product-related queries from global clients, and giving them on-time resolution
+#### Emcure, Bengaluru — TM                                                                         (Jan 2017 – Feb 2018)
+* Measure brand awareness and perception and ensure clear, actionable data and feedback to evaluate * campaigns and inform future initiatives
+* Created and executed brand marketing campaigns
+#### MPS Ltd, Bengaluru —Technical Editor/ Writer  (Feb 2013 – Oct 2016)
+**Client: - Elsevier**
+* Edited and updated the technical  information content according to the set standards regarding order, clarity, conciseness, style, and terminology
+* Followed style guide standards such as the Chicago Manual of Style, MSTP, and Simplified Technical English
+* Quality review of the final product as per the checklist
+* Published guides and creating online help files using Adobe FrameMaker and RoboHelp
+### EDUCATION
+* MCA (Master of Computer Application) from Karnataka State Open University in 2016
+* BSc (Computer Science) from Bengaluru University in 2012
+### CERTIFICATES
+* Certified Professional Technical Writing in 2015 from System Domain
+* Certified API Technical Writing: Rest APIs in 2019 from Udemy
+* Certified JavaScript in 2023 from Guvi IIT
+* Certified Agile development Crash course in 2023 from Udemy 
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
-
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
