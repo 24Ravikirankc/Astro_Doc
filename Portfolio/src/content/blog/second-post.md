@@ -1,5 +1,5 @@
 ---
-title: 'Ressume'
+title: 'Resume'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Jul 15 2022'
 # heroImage: '/blog-placeholder-4.jpg'
@@ -9,7 +9,7 @@ pubDate: 'Jul 15 2022'
 ### Technical Writer/Information Developer
 E-mail: Ravikiran_24@yahoo.com
 Mobile: +91 7348851546, 7204728650  
-Blog:[ ]( Kiraniyengar.com) Kiraniyengar.com
+
 ## OBJECTIVE
 To deliver user-centric help documents. I bring to bear my technical writing experience to understand the unique documentation requirements, collaborate with subject matter experts to gather information and develop help content. Marked precision and attractive document design are the hallmarks of my work.
 ## PROFESSIONAL SKILLS  
