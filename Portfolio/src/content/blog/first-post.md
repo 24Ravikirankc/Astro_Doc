@@ -1,7 +1,8 @@
 ---
 title: 'En Dash and Em Dash'
-# description: 'Lorem ipsum dolor sit amet'
+description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Feb 08 2025'
+tag: 'Technical Writing'
 # heroImage: '/blog-placeholder-3.jpg'
 ---
 
@@ -21,11 +22,9 @@ The **En Dash** is used to describe an inclusive range of numbers more accuratel
    - 1993–1994  
    - Pages 95–110  
    - 6–8 AM
-
 2. To replace a hyphen in compound adjectives to join a hyphenated compound to another word.  
    **Example**:  
    - Dialog box–type options  
-
 3. In other contexts, such as with scores and directions.  
    **Example**:  
    - The Mysore–Bangalore train leaves at two o’clock.
@@ -42,7 +41,6 @@ The **Em Dash** is longer than the En Dash in size. It is used to:
    **Examples**:  
    - Shashi needs three things at the store—butter, milk, and bread.  
    - Shashi needs three things at the store: butter, milk, and bread. _(Without Em Dash)_
-
 2. Instead of commas and parentheses, use Em Dash.  
    **Examples**:  
    - I talked to Mr. Padmanabhan—CEO of The ABC, IT Company—at the Seminar Hall, SIT College Auditorium.  
